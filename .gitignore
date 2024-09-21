@@ -1,0 +1,11 @@
+fonts/google-webfonts/
+kernDump/
+virtualenv3/
+virtualenv4/
+00_references/
+.vscode/
+charts/images/shapes.svg
+charts/images/shapes.ai
+.DS_Store
+__pycache__/
+text.zip
